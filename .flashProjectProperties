@@ -1,0 +1,33 @@
+<projectDescription>
+  <id>1273657781093</id>
+  <name>IsometricPacman</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///F|/Documents and Settings/Kris/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///F|/Documents and Settings/Kris/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/IsometricPacman.fla</defaultApp>
+  <rootURI>file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="map.txt">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/map.txt</uri>
+    <uri label="AStar.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/pathfinding/AStar.as</uri>
+    <uri label="MapLoader.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/isometric/MapLoader.as</uri>
+    <uri label="Utils.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/core/Utils.as</uri>
+    <uri label="IsometricPacman.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/core/IsometricPacman.as</uri>
+    <uri label="IsoObject.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/isometric/IsoObject.as</uri>
+    <uri label="IsoWorld.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/isometric/IsoWorld.as</uri>
+    <uri label="Node.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/pathfinding/Node.as</uri>
+    <uri label="Grid.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/pathfinding/Grid.as</uri>
+    <uri label="DrawnIsoTile.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/isometric/DrawnIsoTile.as</uri>
+    <uri label="IsoUtils.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/isometric/IsoUtils.as</uri>
+    <uri label="Point3D.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/isometric/Point3D.as</uri>
+    <uri label="DrawnIsoBox.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/isometric/DrawnIsoBox.as</uri>
+    <uri label="GraphicTile.as">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/com/isometric/GraphicTile.as</uri>
+    <uri label="IsometricPacman.fla">file:///F|/Documents and Settings/Kris/My Documents/FLASH PROJECTS/IsometricPacman.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

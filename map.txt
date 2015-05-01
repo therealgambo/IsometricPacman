@@ -1,0 +1,65 @@
+﻿// this is a comment.
+
+// default tile
+# 0 type:DrawnIsoTile color:0x000000 walkable:true
+
+// wall tile
+# 1 type:DrawnIsoBox color:0x003366 walkable:false height:20
+
+// colored wall tile
+# 2 type:DrawnIsoBox color:0xff6666 walkable:false height:20
+
+// colored tile
+# 3 type:DrawnIsoBox color:0x99FF00 walkable:false height:20
+
+// invisible tile
+# 4 type:IsoObject color:0xFFFFFF walkable:false
+
+// colored tile
+# 5 type:DrawnIsoTile color:0xff6600 walkable:true
+
+// teleport tile
+# 6 type:DrawnIsoTileTeleport color:0x99FF00 walkable:true teleport:true
+
+# 7 type:DrawnIsoBox color:0xc3c3c3 walkable:false height:45
+
+# 8 type:DrawnIsoBox color:0xc3c3c3 walkable:true height:15
+
+
+// Pacman Map
+//1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+//1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1
+//1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 1 1 0 1
+//1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 1 1 0 1
+//1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+//1 0 1 1 0 1 0 1 1 1 1 1 0 1 0 1 1 0 1
+//1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1
+//1 1 1 1 0 1 1 1 0 1 0 1 1 1 0 1 1 1 1
+//4 4 4 1 0 1 5 5 5 5 5 5 5 1 0 1 4 4 4
+//1 1 1 1 0 1 5 2 2 2 2 2 5 1 0 1 1 1 1
+//6 6 3 3 0 0 5 2 3 3 3 2 5 0 0 3 3 6 6
+//1 1 1 1 0 1 5 2 2 3 2 2 5 1 0 1 1 1 1
+//4 4 4 1 0 1 5 5 5 5 5 5 5 1 0 1 4 4 4
+//1 1 1 1 0 1 0 1 1 1 1 1 0 1 0 1 1 1 1
+//1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1
+//1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 1 1 0 1
+//1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1
+//1 1 8 1 8 1 0 1 1 1 1 1 0 1 0 1 0 1 1
+//1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1
+//1 0 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1
+//1 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0 0 1
+//1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+// Test Map 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 8 0 0 0 0 7 0 0
+1 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 8 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 1 0 0 0 0 0 0 0
